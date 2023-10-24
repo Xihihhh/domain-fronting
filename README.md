@@ -28,7 +28,7 @@
 
 微软的 edge 还需到浏览器的`设置->系统与性能`把`启动增强`关闭，否则参数不生效。
 
-参数内容请看[host_rules.md][rules]或者[df.txt][df-all]([mirror][df-link])。
+参数内容请看[host_rules.md][rules]或者[df.txt][df-all]。
 
 
 ### 第二种方法
@@ -79,4 +79,3 @@ SERVER = "your-domain.com"
 [mitm-df]: https://github.com/mitmproxy/mitmproxy/blob/main/examples/contrib/domain_fronting.py
 [workers]: ./cloud/workers
 [df-all]: ./df.txt
-[df-link]: ./df.txt
