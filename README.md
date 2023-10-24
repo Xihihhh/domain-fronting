@@ -74,9 +74,9 @@ SERVER = "your-domain.com"
 [wiki-df]: https://zh.wikipedia.org/wiki/%E5%9F%9F%E5%89%8D%E7%BD%AE
 [mitm]: https://github.com/mitmproxy/mitmproxy
 [mitm-dl]: https://mitmproxy.org/
-[rules]: https://github.com/rabbit2123/domain-fronting/blob/main/host_rules.md
-[source]: https://github.com/rabbit2123/domain-fronting/blob/main/hosts.source.txt
+[rules]: ./host_rules.md
+[source]: ./hosts.source.txt
 [mitm-df]: https://github.com/mitmproxy/mitmproxy/blob/main/examples/contrib/domain_fronting.py
-[workers]: https://github.com/rabbit2123/domain-fronting/tree/main/cloud/workers
-[df-all]: https://github.com/rabbit2123/domain-fronting/blob/main/df.txt
-[df-link]: https://cf.rabbit2123.kozow.com/gh/domain-fronting/main/df.txt
+[workers]: ./cloud/workers
+[df-all]: ./df.txt
+[df-link]: ./df.txt
