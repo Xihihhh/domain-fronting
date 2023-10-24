@@ -1,7 +1,7 @@
 # 支持的网站列表
-具体哪些域名使用了域前置，哪些可以通过cloudflare workers/pages转发，请看[hosts.source.txt](https://github.com/rabbit2123/domain-fronting/blob/main/hosts.source.txt)。
+具体哪些域名使用了域前置，哪些可以通过cloudflare workers/pages转发，请看[hosts.source.txt](./hosts.source.txt)。
 
-- 维基百科
+- 维基媒体
 - google
 - github
 - duckduckgo
